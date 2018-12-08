@@ -1,0 +1,10 @@
+This repo contains the source code and results of the course project for CSE544 submitted by:
+- Nikhil Navadiya
+- Naimul Hoque
+- Ujjwal Bhangale
+- Ayush Garg
+- Akshat Singhal
+
+All the results can be found in the output folder.
+
+To execute h5_regression.py, please provide the input file path as a command line argument.
